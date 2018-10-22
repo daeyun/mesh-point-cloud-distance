@@ -1,0 +1,18 @@
+[submodule "third_party/repos/cpp_gsl"]
+	path = third_party/repos/cpp_gsl
+	url = https://github.com/Microsoft/GSL.git
+[submodule "third_party/repos/eigen"]
+	path = third_party/repos/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror.git
+[submodule "third_party/repos/spdlog"]
+	path = third_party/repos/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "third_party/repos/cxxopts"]
+	path = third_party/repos/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
+[submodule "third_party/repos/assimp"]
+	path = third_party/repos/assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "third_party/repos/tinyply"]
+	path = third_party/repos/tinyply
+	url = https://github.com/ddiakopoulos/tinyply.git
